@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9o8wuicMgAU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\j\\source\\repos\\RSVPReader\\RSVPReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j\\.nuget\\packages\\pdfpig\\0.1.8\\pdfpig.0.1.8.nupkg.sha512",
+    "C:\\Users\\j\\.nuget\\packages\\versone.epub\\3.3.2\\versone.epub.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
